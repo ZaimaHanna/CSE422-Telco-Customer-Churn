@@ -64,5 +64,12 @@ The complete project is available in:
 
 The notebook contains data analysis, preprocessing, machine learning, model evaluation, K-Means clustering, and customer churn prediction.
 
+### Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaimaHanna/CSE422-Telco-Customer-Churn/blob/main/CSE422_Telco_Churn_Merged_clean.ipynb)
+
+Detailed model results, analysis, visualizations, and conclusions are provided in the project report.
+
+
 
 
